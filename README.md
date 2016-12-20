@@ -7,7 +7,8 @@ Artificial Intelligence project
 + `This section will be updated soon`
 
 **API Endpoint:** [https://ia-module3.herokuapp.com/process](https://ia-module3.herokuapp.com/process)
-**Request example:**  curl --form "text=yourtexthere" https://ia-module3.herokuapp.com/process
+**Request example:**
+curl --form "text=yourtexthere" https://ia-module3.herokuapp.com/process
 
 ## Team members:
 + Balan Valeria
